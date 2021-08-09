@@ -12,7 +12,7 @@ This program uses Python 3.7.10, Pandas, Anaconda version 4.10.3, and JupyterLab
 
 ## Usage
 
-Open the Jupyter Lab notebook at #### or download the notebook and run from the CLI.
+Open the Jupyter Lab notebook at https://github.com/toniahurst/FinTech_Module_6_Challenge/blob/main/FinTech_Module_6_Challenge_Starter_Code/san_francisco_housing.ipynb or download the notebook and run from the CLI.
 
 ## Contributors
 
