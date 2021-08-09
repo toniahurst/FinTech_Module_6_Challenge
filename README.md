@@ -4,6 +4,7 @@
 
 In this challenge, we used a variety of visualization tools to analyze the San Francisco rental housing market as a member of Proptech, a app for the real estate market. Proptech is conducting a trial run of its one-click service for people to buy and sell real estate. If the trial is successful in the San Francisco market, the service would be expanded to other markets. Our job (using geospatial tools, aggregation, and visualizations) is to identify potential properties to investors.
 
+[! alt text]https://github.com/toniahurst/FinTech_Module_6_Challenge/blob/main/Fig.%201.png
 
 
 ## Technologies
