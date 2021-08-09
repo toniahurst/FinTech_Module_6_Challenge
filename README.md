@@ -52,7 +52,7 @@ Question What insights can you share with your company about the potential one-c
 
 Answer # While gross rents across the city are uniformly outpacing the sale price sqr foot, the best locations to invest (based on the factors evaluated) are those neighborhoods which have high gross rent and lower or declining sale price sqr foot. The results of this analysis indicate that more detail is needed to make a good recommendation. Though there are many areas which have high gross rents and some that also have low or static sale price per square foot, without taking into consideration costs (such as repairs, insurance, taxes, and vacancy days) and other aspects such as square footage, it is difficult to say which properties are best.
 
-Based on the data, the properties I would consider further are: Westwood Park, Bayview Heights, Visitacion Valley, Merced Heights, Inner Parkside, Outer Mission, North Beach, Van Ness/Civic Cneter, Financial District South, and Oceanview.
+Based on the data, the neighborhoods I would consider further are: Westwood Park, Bayview Heights, Visitacion Valley, Merced Heights, Inner Parkside, Outer Mission, North Beach, Van Ness/Civic Cneter, Financial District South, and Oceanview.
 
 ## Technologies
 
